@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbjaR-RH/static/css/main.5fb71e06.css",
+    "main.js": "/AbjaR-RH/static/js/main.a255a0f5.js",
+    "static/js/453.e56114f4.chunk.js": "/AbjaR-RH/static/js/453.e56114f4.chunk.js",
+    "index.html": "/AbjaR-RH/index.html",
+    "main.5fb71e06.css.map": "/AbjaR-RH/static/css/main.5fb71e06.css.map",
+    "main.a255a0f5.js.map": "/AbjaR-RH/static/js/main.a255a0f5.js.map",
+    "453.e56114f4.chunk.js.map": "/AbjaR-RH/static/js/453.e56114f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb71e06.css",
+    "static/js/main.a255a0f5.js"
+  ]
+}
